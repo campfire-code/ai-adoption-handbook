@@ -1,0 +1,10 @@
+{
+  "id": "a09",
+  "slug": "ai-adoption-handbook",
+  "name": "AI 落地方法论手册",
+  "version": "0.1.0",
+  "repo": "campfire-code/ai-adoption-handbook",
+  "license": "CC-BY-4.0",
+  "delivery": "docs",
+  "upstream": null
+}
